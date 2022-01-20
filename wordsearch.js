@@ -17,6 +17,5 @@ module.exports = wordSearch;
 
 /*
 Pair Programming assignment = pair-programming-word-search
-By: Md Meer and Muhammad Akbar 
 time to complete = 45 mins 
 */
